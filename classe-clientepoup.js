@@ -27,7 +27,7 @@ class ClientePoupanca extends Cliente{
             console.log(this.saldopoup)
         }
 }
-const erick = new pClientePouanca("Erick","erick1junior@hotmail.com",
+const erick = new ClientePoupanca("Erick","erick1junior@hotmail.com",
 "41295181860",200,1000)
 
 console.log(erick)
